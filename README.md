@@ -20,9 +20,7 @@ Create a Responsive feedback form for a virtual workshop on Constructing Modern 
 
 ## CODE: 10(a)
 '''
-DEVELOPED BY:VARNIKA.P
 
-REGISTER NO:212223240170
 '''
 ```
 <!DOCTYPE html>
@@ -101,8 +99,8 @@ REGISTER NO:212223240170
 ```
 
 ## OUTPUT:10(a):
+![Screenshot 2024-01-01 172818](https://github.com/NiranjaniC/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742800/ed185508-f84d-49c9-9f0d-b1f5326fb2f1)
 
-![Alt text](<Screenshot 2023-12-31 135353.png>)
 
 ## RESULT:
   This code creates a responsive feedback form for a virtual workshop on constructing modern websites built with Bootstrap.
@@ -129,9 +127,7 @@ Create a Responsive student registration form for ABC Engineering College built 
 
 ## CODE: 10(b)
 '''
-DEVELOPED BY:VARNIKA.P
 
-REGISTER NO:212223240170
 '''
 ```
 <!DOCTYPE html>
@@ -207,7 +203,9 @@ REGISTER NO:212223240170
 ```
 
 ## OUTPUT:10(b):
-![Alt text](image.png)
+![Screenshot 2024-01-01 172928](https://github.com/NiranjaniC/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742800/294d2e18-2516-486e-bd04-3e36d8d40265)
+
+
 
 ## RESULT:
 This code creates a Responsive student registration form for ABC Engineering College built with Bootstrap.
@@ -234,9 +232,7 @@ Develop a program to structure vertical form layouts which handle form validatio
 
 ## CODE: 10(c)
 '''
-DEVELOPED BY:VARNIKA.P
 
-REGISTER NO:212223240170
 '''
 ```
 <!DOCTYPE html>
@@ -285,8 +281,9 @@ REGISTER NO:212223240170
 
 ```
 ## OUTPUT:10(c):
+![Screenshot 2024-01-01 173041](https://github.com/NiranjaniC/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742800/589309ef-28f5-46f1-bd77-c3c225608afa)
 
-![Alt text](<Screenshot 2023-12-31 203737.png>)
+
 
 ## RESULT:
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap.
@@ -313,9 +310,7 @@ Add a script to handle the form validation on submit.
 
 ## CODE: 10(d)
 '''
-DEVELOPED BY:VARNIKA.P
 
-REGISTER NO:212223240170
 '''
 ```
 <!DOCTYPE html>
@@ -364,10 +359,10 @@ REGISTER NO:212223240170
 
 ```
 
-
 ## OUTPUT:10(d):
+![Screenshot 2024-01-01 173127](https://github.com/NiranjaniC/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742800/04990d84-bb3a-4eb7-8547-5a32f12fc697)
 
-![Alt text](<Screenshot 2023-12-31 204032.png>)
+
 
 ## RESULT:
 This code creates a basic email login form in Bootstrap with validation function.
